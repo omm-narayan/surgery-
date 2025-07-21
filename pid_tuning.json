@@ -1,0 +1,30 @@
+{
+    "axisX" : {
+        "current_lim" : 20,
+        "vel_limit" : 150000,
+        "vel_gain" : 0.00045,
+        "pos_gain" : 10,
+        "vel_integrator_gain" : 0.00225
+    },
+    "axisZ" : {
+        "current_lim" : 20,
+        "vel_limit" : 150000,
+        "vel_gain" : 0.0006,
+        "pos_gain" : 25,
+        "vel_integrator_gain" : 0.003
+    },
+    "axisY_Main" : {
+        "current_lim" : 20,
+        "vel_limit" : 150000,
+        "vel_gain" : 0.00045,
+        "pos_gain" : 10,
+        "vel_integrator_gain" : 0.00225
+    },
+    "axisY_Slave" : {
+        "current_lim" : 20,
+        "vel_limit" : 150000,
+        "vel_gain" : 0.00045,
+        "pos_gain" : 10,
+        "vel_integrator_gain" : 0.00225
+    }
+}
